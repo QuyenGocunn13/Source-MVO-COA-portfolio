@@ -73,7 +73,7 @@ def create_comparison_matrix(normalized_scores):
     return matrix
 
 
-criteria_data = read_csv_to_array('../Save Investment/criteria_data.csv')  # Đọc dữ liệu từ file CSV
+criteria_data = read_csv_to_array('criteria_data.csv')  # Đọc dữ liệu từ file CSV
 
 # Quy đổi dữ liệu sang hệ 9
 normalized_scores = normalize_to_nine_scale(criteria_data)
@@ -92,7 +92,7 @@ weights_percent = weights / np.sum(weights) * 100
 
 # Đọc file criteria_values.csv
 
-file_path1 = "../criteria_values.csv"
+file_path1 = "criteria_values.csv"
 try:
     data = pd.read_csv(file_path1, encoding="utf-8")
 
@@ -103,7 +103,7 @@ except FileNotFoundError:
     print(f"Không tìm thấy file: {file_path1}. Vui lòng kiểm tra lại.")
 
 # Đọc file criteria_and_risk_investment.csv
-file_path = "../criteria_and_risk_investment.csv"
+file_path = "criteria_and_risk_investment.csv"
 df = pd.read_csv(file_path, encoding="utf-8")
 
 investment_names = df["Danh mục"]
@@ -511,7 +511,7 @@ def read_categories_from_csv(filename):
     return categories
 
 # Đọc dữ liệu từ file CSV
-categories = read_categories_from_csv('../categories.csv')
+categories = read_categories_from_csv('categories.csv')
 
 # Phân loại danh mục đầu tư
 classified_investments = defaultdict(list)
