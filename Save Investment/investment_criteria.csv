@@ -1,0 +1,101 @@
+Danh mục đầu tư,Expected Return,Risk,Liquidity,Investment Horizon,Cost,Stability of Cash Flow,Diversification
+Đầu tư vàng,3,2,8,6,2,7,5
+Tài chính bất động sản,5,4,3,8,5,6,4
+Gửi ngân hàng,2,1,9,4,1,9,3
+Cổ phiếu top thị trường,6,5,8,5,3,4,6
+Cổ phiếu không thuộc top,7,7,7,5,4,3,7
+Trái phiếu doanh nghiệp,4,3,5,7,3,8,4
+Trái phiếu chính phủ,3,2,9,8,2,9,3
+Quỹ cổ phiếu,6,4,6,6,4,5,5
+Quỹ trái phiếu,4,2,7,7,3,8,4
+Quỹ hỗn hợp cân bằng,5,3,6,6,3,6,5
+"Crypto (btc, eth)",8,7,8,5,4,3,6
+Alt coin,7,8,7,4,5,2,7
+Meme coin,9,9,7,3,7,1,8
+Shit coin,9,9,6,2,8,1,8
+Quỹ đầu tư bất động sản (reits),6,3,6,7,4,7,5
+Chứng chỉ tiền gửi (cds),2,1,9,4,1,9,3
+Hợp đồng tương lai,8,8,6,3,6,2,5
+Hợp đồng quyền chọn,7,9,6,3,6,2,5
+Vốn đầu tư mạo hiểm,9,9,3,7,6,1,8
+Đầu tư công nghệ tài chính (fintech),8,8,6,6,5,3,7
+Etf ngành công nghệ,8,6,7,6,5,7,6
+Etf ngành năng lượng,7,7,6,7,5,6,5
+Etf ngành y tế,6,5,8,7,6,7,6
+Etf ngành tài chính,7,6,7,7,5,6,6
+Etf theo chỉ số s&p 500,9,4,8,8,5,7,7
+Etf theo chỉ số vn30,8,5,7,8,6,7,6
+Etf bất động sản toàn cầu,5,6,6,7,7,6,6
+Etf trái phiếu toàn cầu,6,4,9,7,5,7,5
+"Etf hàng hóa (vàng, dầu)",8,7,7,6,6,6,6
+Etf crypto,10,3,8,9,5,8,7
+Quỹ phòng hộ (hedge fund),7,5,6,5,4,7,5
+Quỹ tài sản thay thế,6,6,5,6,6,6,6
+Quỹ hàng hóa,7,5,7,6,5,7,6
+Quỹ tư nhân,8,4,8,6,7,7,7
+Đầu tư startup,9,8,7,4,7,7,8
+Đầu tư nông nghiệp,6,7,6,5,7,6,6
+Đầu tư lâm nghiệp,7,6,5,5,6,6,5
+Đầu tư thủy sản,8,6,6,6,6,6,7
+Đầu tư năng lượng tái tạo,9,5,8,8,7,7,8
+Đầu tư điện mặt trời,9,6,8,9,7,8,9
+Đầu tư điện gió,8,7,7,7,7,7,8
+Đầu tư điện hạt nhân,8,8,7,8,7,8,9
+Đầu tư công nghệ ai,9,5,9,9,6,7,9
+Đầu tư công nghệ blockchain,10,4,9,10,5,8,9
+Đầu tư công nghệ sinh học,8,5,7,6,6,7,8
+Đầu tư công nghệ thông tin,7,6,8,7,6,6,7
+Đầu tư ngành logistics,7,6,6,7,6,6,7
+Đầu tư ngành hàng không,6,7,6,6,5,7,6
+Đầu tư ngành ô tô,6,7,7,5,6,6,7
+Đầu tư ngành dịch vụ du lịch,7,6,6,5,5,7,6
+Đầu tư ngành sản xuất thực phẩm,7,6,7,5,7,7,7
+Đầu tư ngành dược phẩm,7,6,8,5,6,8,7
+Đầu tư ngành công nghiệp nặng,8,5,7,6,7,6,7
+Đầu tư bất động sản nghỉ dưỡng,9,5,8,8,6,8,8
+Đầu tư bất động sản công nghiệp,8,6,8,7,6,7,7
+Đầu tư bất động sản thương mại,7,6,7,6,5,7,6
+Đầu tư bất động sản nhà ở,8,5,7,6,6,7,7
+Đầu tư đất nông nghiệp,7,6,6,7,5,6,6
+Đầu tư nhà phố,6,7,7,7,5,7,6
+Đầu tư biệt thự,8,6,7,6,6,7,7
+Đầu tư căn hộ cao cấp,8,5,8,6,5,8,7
+Đầu tư căn hộ cho thuê,7,6,7,7,6,7,6
+Đầu tư nhà xưởng,7,7,7,8,7,8,8
+Đầu tư cổ phiếu tăng trưởng,8,6,8,7,6,7,7
+Đầu tư cổ phiếu giá trị,7,7,8,6,5,7,7
+Đầu tư cổ phiếu cổ tức cao,7,6,7,7,6,7,7
+Đầu tư cổ phiếu penny stock,9,3,9,8,5,9,7
+Đầu tư cổ phiếu blue-chip,8,4,9,9,6,8,8
+Đầu tư cổ phiếu ngành tài chính,7,5,7,6,6,6,7
+Đầu tư cổ phiếu ngành năng lượng,8,4,8,7,6,6,7
+Đầu tư cổ phiếu ngành bất động sản,7,6,7,5,7,7,7
+Đầu tư cổ phiếu ngành công nghệ,9,5,9,8,6,7,8
+Đầu tư cổ phiếu ngành tiêu dùng,7,6,8,6,5,6,7
+Đầu tư quỹ thị trường mới nổi,7,6,8,7,5,7,7
+Đầu tư quỹ thị trường phát triển,6,7,7,6,5,7,6
+Đầu tư vào startup công nghệ,9,4,9,7,6,8,8
+Đầu tư vào startup dịch vụ,8,5,8,6,7,7,7
+Đầu tư vào startup giáo dục,7,5,8,7,5,8,7
+Đầu tư vào startup y tế,9,5,9,8,7,8,9
+Đầu tư vào startup tài chính,8,6,8,6,7,7,7
+Đầu tư kim cương,8,6,7,7,6,8,8
+Đầu tư bạc,7,7,8,6,6,7,6
+Đầu tư bạch kim,6,7,7,6,6,7,6
+Đầu tư đồng,7,6,8,7,6,8,7
+Đầu tư dầu mỏ,9,5,9,8,6,9,8
+Đầu tư cà phê,7,6,7,6,6,7,6
+Đầu tư lúa mì,8,5,8,7,7,7,8
+Đầu tư cao su,7,6,7,6,6,7,6
+Đầu tư trái phiếu đô thị,8,5,7,6,6,8,7
+Đầu tư trái phiếu quốc tế,8,5,8,7,6,7,8
+Đầu tư quỹ môi trường,7,6,7,6,5,7,6
+Đầu tư quỹ esg,9,4,8,9,7,7,9
+Đầu tư cổ phiếu thị trường mới nổi,7,6,8,7,5,7,7
+Đầu tư cổ phiếu thị trường biên giới,7,5,8,6,6,7,7
+Đầu tư vàng vật chất,8,5,9,7,6,7,8
+Đầu tư vàng tài khoản,8,6,8,6,7,7,8
+Đầu tư quỹ etf sinh thái,9,4,8,8,7,7,9
+Đầu tư quỹ etf tài chính xanh,8,5,8,7,6,8,7
+Đầu tư vào thực tế ảo,9,6,7,6,5,7,9
+Đầu tư vào dược lý học,8,7,6,7,6,6,8
