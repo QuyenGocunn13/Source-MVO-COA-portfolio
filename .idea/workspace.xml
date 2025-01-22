@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8727a7-300c-4cc1-baa8-1facaebbd7ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Bitcoin (Lợi nhuận và rủi ro).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Bitcoin.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/ETH.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Fintech Asia.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Meme Coin.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/MemeCoin.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Quỹ đầu tư bất động sản (REITs) - Vinaland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/ShitCoin.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Test1-3(1).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Test1.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/Vốn đầu tư mạo hiểm (VOF).csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/criteria_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/fitness_investment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/investment_criteria.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/processed_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Save Investment/test1.1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="5b8727a7-300c-4cc1-baa8-1facaebbd7ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Gợi ý danh mục đầu tư" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
     <hideBySeverity>
@@ -119,7 +96,7 @@
       <recent name="C:\Users\DELL\OneDrive - Ho Chi Minh city University of Industry and Trade\Máy tính\Bài toán quản lý danh mục đầu tư\Coati Optimization Algorithm\Source code COA\.venv" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Gợi ý danh mục đầu tư">
     <configuration name="Gợi ý danh mục đầu tư" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Code" />
       <option name="ENV_FILES" value="" />
